@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalindu Adithya</h1>
 <h3 align="center">🚀 Passionate Developer | Exploring the Frontiers of Code and Technology</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kzkalindu&label=Profile%20views&color=0e75b6&style=flat" alt="kzkalindu" />
 </p>
@@ -11,11 +10,11 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🎓 I'm a **Software Engineering student** at the **IIT** affiliated with **University of Westminster**  
+- 🎓 I'm a **Software Engineering student** at the **IIT** affiliated with the **University of Westminster**  
 - 🌱 Currently learning **Java**, **Machine Learning**, **Python**, and **Spring Framework**  
 - 💬 Ask me about **Java**  
-- 📫 Reach me at: **kalinduadithya0625@gmail.com**  
-- ⚡ Fun fact: I'm also a **gamer** and love tech gadgets!  
+- 📫 How to reach me: **kalinduadithya0625@gmail.com**  
+- ⚡ Fun fact: I'm also a **gamer** and love tech gadgets!
 
 </td>
 <td width="50%" align="center">
@@ -28,14 +27,25 @@
 
 ---
 
-<h3 align="center">📊 My GitHub Stats</h3>
+<h3 align="center">📊 My Statistics:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kzkalindu&theme=dark&show_icons=true&count_private=true" />
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kzkalindu&theme=dark&show_icons=true&count_private=true" />
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=kzkalindu&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzkalindu&layout=compact&theme=dark&hide_border=false" />
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kzkalindu&theme=dark&hide_border=false" /> 
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzkalindu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+</td>
+</tr>
+</table>
 </p>
 
 ---
@@ -78,7 +88,5 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50" alt="MySQL"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50" alt="Python"/></a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn"/>
-  </a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn"/></a>
 </p>
